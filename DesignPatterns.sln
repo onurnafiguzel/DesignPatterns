@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{44558F36-6865-442E-B7F4-421A62F91FA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{E5F5CD43-55B1-4575-94B0-0F2E99170B2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{44558F36-6865-442E-B7F4-421A62F91FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44558F36-6865-442E-B7F4-421A62F91FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44558F36-6865-442E-B7F4-421A62F91FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F5CD43-55B1-4575-94B0-0F2E99170B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F5CD43-55B1-4575-94B0-0F2E99170B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F5CD43-55B1-4575-94B0-0F2E99170B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F5CD43-55B1-4575-94B0-0F2E99170B2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
