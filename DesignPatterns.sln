@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{7C38DD36-564E-4BA8-AD92-62B3CF06864A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{0C0ED91C-D0F4-4AFD-A88B-A7275FAFCEF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{7C38DD36-564E-4BA8-AD92-62B3CF06864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C38DD36-564E-4BA8-AD92-62B3CF06864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C38DD36-564E-4BA8-AD92-62B3CF06864A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0ED91C-D0F4-4AFD-A88B-A7275FAFCEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0ED91C-D0F4-4AFD-A88B-A7275FAFCEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0ED91C-D0F4-4AFD-A88B-A7275FAFCEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0ED91C-D0F4-4AFD-A88B-A7275FAFCEF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
